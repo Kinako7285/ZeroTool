@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ZeroTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="package" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="minime" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DNS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="ADDRS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SUBNET" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="SER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AAVE-01A13990000</Value>
+    </Setting>
+    <Setting Name="KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AAVE-01A13990000</Value>
+    </Setting>
+    <Setting Name="SEAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">S</Value>
+    </Setting>
+    <Setting Name="RIG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JPN</Value>
+    </Setting>
+    <Setting Name="Ver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
