@@ -2,7 +2,6 @@ Zero Tool使用説明書
 
 頭文字D Zeroの対戦をより快適に(シングルプレイも可)プレイできるツールです
 対戦でもTPで操作を割り当てることができます
-以前アップロードしたD0_Control_settings_Toolの後継です
 
 segatool.iniをD0ゲームファイルにコピーします
 
